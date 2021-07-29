@@ -1,0 +1,7 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Objetos: son elementos que sirven para crear cosas determinadas que tienen propiedades como “nombres”, “apellidos”, “edad”, etc. Y pueden hacer actividades.-
+Propiedades= Son las cualidades de los objetos por ejemplo, nombres, apellidos, color, altura, peso, etc.-
+Métodos son las funciones o actividades que pueden cumplir los objetos. Por ejemplo, sumar, restar, dividir, moverse, extraer datos, etc.
+Bucle for…in es una forma de entrar en los objetos y buscar información de las propiedades y funciones de los objetos que están dentro.-
+Notación de puntos vs notación de corchetes: La primera es la forma de escribir utilizando puntos para identificar a una propiedad en un objeto y la segunda cumple el mismo fin solo que se utilizan los [] para hacerlo.-

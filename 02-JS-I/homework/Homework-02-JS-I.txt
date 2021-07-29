@@ -1,0 +1,5 @@
+Variables: Son cajas dentro de la computadora que sirven para guardar palabras, numeros, verdades y mentiras.-
+Strings: Son cadenas de caracteres que pueden ser letras, números o simbolos
+Funciones (argumentos, return): Funciones son acciones que puede hacer dentro de la computadora. Estas tienen argumentos que son las cajas donde se pueden guardar palabras, numeros, verdades y mentiras y pueden ser usadas por las acciones o funciones. Return es lo que las acciones devuelven en la pantalla de la computadora. Es el resultado de las acciones.-
+Declaraciones if : son formas de saber si en una caja hay guardado numeros o palabras que pueden ser verdaderas o falsas. Y de acuerdo a eso la computadora realiza una accion especifica.-
+Valores booleanos (true, false): Estos son las verdades o mentiras y que pueden guardarse en las cajas o variables.-
